@@ -35,16 +35,7 @@ Download the full repository rather than only the assembly file, as SolidWorks a
 
 If SolidWorks asks for a missing component, browse to the extracted folder and select the corresponding file. Individual `.SLDPRT` files can also be opened separately.
 
-For a quick visual overview without SolidWorks, open [`Assembly.JPG`](Assembly.JPG).
 
-## Exploring the Assembly
-
-With the model open in SolidWorks, you can:
-
-- Hide the cover or housing to inspect the internal arrangement.
-- Use a section view to examine internal geometry.
-- Open individual components to inspect their dimensions and features.
-- Review how the shafts, gear geometry, housing, and closure components fit together.
 
 ## Project Focus
 
